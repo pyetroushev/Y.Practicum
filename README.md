@@ -8,4 +8,4 @@ The current period for analysis is selected. Portraits of users of each region h
 Hypotheses have been tested: the average user ratings of the Xbox One and PC platforms are the same;
 the average user ratings of the Action and Sports genres are different.
 The Student's criterion for independent samples was used in the analysis.
-- tags: #Python #Pandas #numpy #Matplotlib #Seaborn #Statistic
+- tags: #Python #Pandas #numpy #Matplotlib #Seaborn #Statistics
