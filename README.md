@@ -27,3 +27,10 @@ A model has been built to determine the region where mining will bring the great
 A model predicting the recovery coefficient of gold from gold-bearing ore is constructed. The data with the parameters of extraction and purification are analyzed.
 A model has been created and trained to help optimize production so as not to launch an enterprise with unprofitable characteristics.
 - tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def
+
+## Carprice Prediction:
+- Determining the market value of a used car.
+- The service for the sale of used cars is developing an application to attract new customers. In it, you can quickly find out the market value of your car. 
+Analyzed data: technical characteristics, configuration and prices of cars. A model has been built to determine the cost of a used car.
+Numerical methods, approximate calculations, algorithm complexity estimation, gradient descent were used.
+- tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def 
