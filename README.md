@@ -1,7 +1,7 @@
 # Y.Practicum
 projects
 ## Game Analysis:
-- - Studying the patterns that determine the success of games.
+ - Studying the patterns that determine the success of games.
 - - The online store sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms are available from open sources.
 The parameters determining the success of the game in different regions of the world are revealed.
 A potentially popular product has been identified and advertising campaigns have been planned.
