@@ -41,3 +41,8 @@ Numerical methods, approximate calculations, algorithm complexity estimation, gr
 The number of taxi orders for the next hour has been predicted to attract more drivers during peak periods.
 A model is built for such a prediction.
  - tags: #ML #Python #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def #TimeSeries
+
+## Steel temperature prediction:
+ - The target indicator is the final temperature measurement.
+ - In order to optimize production costs, the smelter decided to reduce electricity consumption during the steel processing stage.
+ - - tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def 
