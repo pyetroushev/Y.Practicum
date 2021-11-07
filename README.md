@@ -45,4 +45,4 @@ A model is built for such a prediction.
 ## Steel temperature prediction:
  - The target indicator is the final temperature measurement.
  - In order to optimize production costs, the smelter decided to reduce electricity consumption during the steel processing stage.
- - - tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def 
+ - tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def 
