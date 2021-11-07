@@ -11,7 +11,7 @@ the average user ratings of the Action and Sports genres are different.
 The Student's criterion for independent samples was used in the analysis.
 - tags: #Python #Pandas #numpy #Matplotlib #Seaborn #Statistics
 
-## Oil Analysis:
+## Oil Wellfields Analysis:
 - Choosing a region for the development of new oil fields.
 - The mining company needs to decide where to drill a new well.
 The characteristics of the oil sample for wells are collected: the quality of oil and the volume of its reserves in three regions. The characteristics for each well in the region are already known. 
@@ -19,4 +19,11 @@ A model has been built to predict the volume of reserves in new wells.
 The wells with the highest estimates of values were selected.
 The regions with the maximum total profit of the selected wells have been identified.
 A model has been built to determine the region where mining will bring the greatest profit. The possible profit and risks are analyzed by Bootstrap technology.
-- tags: #Pandas #sklearn #math #numpy #Seaborn #Matplotlib #SciPy #Bootstrap #ML
+- tags: #Pandas #sklearn #math #numpy #Seaborn #Matplotlib #SciPy #Bootstrap #ML #def
+
+## Gold Recovery:
+- Creation of a prototype model for a metalworking enterprise.
+- The company develops solutions for the efficient operation of the gold mining industry.
+A model predicting the recovery coefficient of gold from gold-bearing ore is constructed. The data with the parameters of extraction and purification are analyzed.
+A model has been created and trained to help optimize production so as not to launch an enterprise with unprofitable characteristics.
+- tags: #ML #Python #SQL #Pandas #Numpy #Matplotlib #Seaborn #Sklearn #def
