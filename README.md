@@ -1,4 +1,4 @@
-# Y.Prakticum
+# Y.Practicum
 projects
 ## Game Analysis:
 - The online store sells computer games all over the world. Historical data on game sales, user and expert ratings, genres and platforms are available from open sources.
